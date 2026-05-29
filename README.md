@@ -1,19 +1,13 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Toan Ngo
+  Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Toan Ngo
 </h1>
 
 <h3 align="center">Software Engineer · Go Backend · Microservices · DevOps</h3>
 
 <p align="center">
-  <a href="https://github.com/tommitoan">
-    <img src="https://img.shields.io/badge/GitHub-tommitoan-181717?style=for-the-badge&logo=github&logoColor=white" height="25px" />
-  </a>
-  <a href="https://linkedin.com/in/tommitoan">
-    <img src="https://img.shields.io/badge/LinkedIn-tommitoan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" />
-  </a>
-  <a href="mailto:tommitoan1995@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tommitoan1995%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25px" />
-  </a>
+  <a href="https://github.com/tommitoan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-tommitoan-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tommitoan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tommitoan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tommitoan1995@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tommitoan1995%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -32,6 +26,7 @@
 * 🏅 AWS Certified Solutions Architect – Associate.
 
 ---
+
 ## 🛠️ Technologies and Tools
 
 <p align="center">
@@ -75,12 +70,4 @@
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square" />
   <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-1E1E1E?style=flat-square" />
-</p>
-
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=E6522C" height="25px" />
-  <img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-0D1117?style=for-the-badge&logo=jaeger&logoColor=66CFE3" height="25px" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" height="25px" />
-  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF" height="25px" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757" height="25px" />
-  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-0D1117?style=for-the-badge&logo=opencode&logoColor=58A6FF" height="25px" />
 </p>
