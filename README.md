@@ -34,41 +34,49 @@
 ---
 ## 🛠️ Technologies and Tools
 
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=58A6FF" height="25px" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" height="25px" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" height="25px" />
-  <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px" />
+<p align="center">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-<p>
-  <img alt="gRPC" src="https://img.shields.io/badge/gRPC-0D1117?style=for-the-badge&logo=grpc&logoColor=58A6FF" height="25px" />
-  <img alt="Protobuf" src="https://img.shields.io/badge/Protobuf-0D1117?style=for-the-badge&logo=google&logoColor=4285F4" height="25px" />
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF" height="25px" />
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" height="25px" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" height="25px" />
+<p align="center">
+  <img alt="gRPC" src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" />
+  <img alt="Protobuf" src="https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 </p>
 
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" height="25px" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" height="25px" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" height="25px" />
-  <img alt="GCP" src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" height="25px" />
-  <img alt="Helm" src="https://img.shields.io/badge/Helm-0D1117?style=for-the-badge&logo=helm&logoColor=0F1689" height="25px" />
-  <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-0D1117?style=for-the-badge&logo=argo&logoColor=EF7B4D" height="25px" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" height="25px" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939" height="25px" />
+<p align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="25px" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis_Cluster-0D1117?style=for-the-badge&logo=redis&logoColor=FF4438" height="25px" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" height="25px" />
-  <img alt="ArangoDB" src="https://img.shields.io/badge/ArangoDB-0D1117?style=for-the-badge&logo=arangodb&logoColor=DDE072" height="25px" />
+<p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis_Cluster-FF4438?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="ArangoDB" src="https://img.shields.io/badge/ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=black" />
 </p>
 
-<p>
+<p align="center">
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square" />
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-1E1E1E?style=flat-square" />
+</p>
+
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=E6522C" height="25px" />
   <img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-0D1117?style=for-the-badge&logo=jaeger&logoColor=66CFE3" height="25px" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" height="25px" />
